@@ -8,8 +8,14 @@ Create a program that asks the user for their age, then tells them how long they
 
 Use the average life expectancy of 83.5 years to do the calculation.
 
-## Example
+## Examples
 
-> How old are you? 13
+`How old are you?` 13
 
-> You have 70.5 years left.
+`You have 70.5 years left.`
+
+---
+
+`How old are you?` 18
+
+`You have 65.5 years left.`

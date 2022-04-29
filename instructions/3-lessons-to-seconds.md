@@ -8,8 +8,14 @@ Create a program that asks the user for how many lessons are left in the day, th
 
 Assume each lesson is an hour.
 
-## Example
+## Examples
 
-> How many lessons left today? 3
+`How many lessons left today?` 3
 
-> That's 10800 seconds :(
+`That's 10800 seconds :(`
+
+---
+
+`How many lessons left today?` 1
+
+`That's 3600 seconds :(`
